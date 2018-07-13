@@ -1,0 +1,18 @@
+# Eye Protection [002]
+- **Correct Gesture**.(default situation is dormitory)
+    - **Using computers**. 
+        - Put a thick book under the computer.
+        - Place the computer against the wall.
+        - Make the edges of the chair and desk align.
+        - Sit in the center of the chair.
+        - Your back can be a little bent, but you can't extend the head forward.
+        - The above are mainly aimed at the dormitory, other situations are similar.
+    - **Using cellphones**.
+        - Put hands on the desk, make the elbow near to the edge of the desk. (about 5cm)
+        - In the dormitory, rest the back against the chair.
+        - In the classroom or library, hold the back and the neck straight. 
+        - Sit by the bed
+- **The Use of Electronic Devices**.
+- **Regular Break**.
+- **Eating and Sports**.
+- **Learn**.
