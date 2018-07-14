@@ -3,15 +3,15 @@
     - **Using computers**. 
         - Put a thick book under the computer.
         - Place the computer against the wall.
-        - Make the edges of the seat and desk align.
-        - Sit in the center of the chair.
+        - [1] Make the edges of the seat and desk align.
+        - [1] Sit in the center of the chair.
         - Your back can be a little bent, but you can't extend the head forward.
         - The above are mainly aimed at the dormitory, other situations are similar.
     - **Using cellphones**.
-        - [1]Put hands on the desk, make the elbow near to the edge of the desk. (about 5cm, under the premise below)
-        - In the dormitory, rest the back against the chair and [1].
-        - In the classroom or library, [2]hold the back and the neck straight and [1].
-        - Sit by the bed or on the bed, put hands on the knees and [2]. 
+        - [2] Put hands on the desk, make the elbow near to the edge of the desk (about 5cm) and [1].
+        - In the dormitory, rest the back against the chair and [1] and [2].
+        - In the classroom or library, [3] hold the back and the neck straight and [2].
+        - Sit by the bed or on the bed, put hands on the knees and [3]. 
         - Forbid playing cellphones while lying on the bed.
         - Forbid sittng sideways in the seat.
         - Forbid playing cellphones while standing (on the bus, metro) or walking.
