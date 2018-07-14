@@ -18,15 +18,24 @@
     - **Reading or writing**.
         - Hold the back straight and [1].
 - **The Use of Electronic Devices**.
-    - **
 - **Regular Break**. (refer to App: Flat Tomato)
-    - **when to use it**.
+    - **When to use it**.
         - When the eys are focused on the near object for a long time. specific situations are: 
-        - Watching videos(on the computer, iPad ,iPod, cellphone).
+        - Watch videos(on the computer, iPad ,iPod, cellphone).
         - Do homework, review and after-class learning.
-        - Writing blogs.
+        - Write blogs.
         - Have computer courses.
         - Surf the Internet for a long time(on the computer, iPad, cellphone).
-        - Others.
+        - Others(like playing computer games).
+    - **App's setting**.
+        - 5 plates: Review, After-class Learning, Do Homework, Entertainment, Write Blogs.
+        - Form: 25 min work- 5 min short break- 25 min work- 10 min long break.
+        - 
+    - **How to relax**.
+        - Go out of the dormitory or go to the balcony of the library.
+        - Can not do anything with iPod except listening to music.
+        - [4] Stay in a place, first look far into the distance carefully(such as distant leaves) for one minute.
+        - [5] Then observe the fingerprint carefully.
+        - Repeat the [4] and [5] for ten times and turn the eyes. 
 - **Eating and Sports**.
 - **Learn**.
