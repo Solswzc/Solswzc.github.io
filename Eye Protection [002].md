@@ -18,7 +18,15 @@
     - **Reading or writing**.
         - Hold the back straight and [1].
 - **The Use of Electronic Devices**.
-    - 
-- **Regular Break**.
+    - **
+- **Regular Break**. (refer to App: Flat Tomato)
+    - **when to use it**.
+        - When the eys are focused on the near object for a long time. specific situations are: 
+        - Watching videos(on the computer, iPad ,iPod, cellphone).
+        - Do homework, review and after-class learning.
+        - Writing blogs.
+        - Have computer courses.
+        - Surf the Internet for a long time(on the computer, iPad, cellphone).
+        - Others.
 - **Eating and Sports**.
 - **Learn**.
